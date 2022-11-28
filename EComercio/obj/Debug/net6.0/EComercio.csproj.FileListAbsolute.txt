@@ -1,0 +1,15 @@
+C:\temp\projetos\EComercio\EComercio\bin\Debug\net6.0\EComercio.exe
+C:\temp\projetos\EComercio\EComercio\bin\Debug\net6.0\EComercio.deps.json
+C:\temp\projetos\EComercio\EComercio\bin\Debug\net6.0\EComercio.runtimeconfig.json
+C:\temp\projetos\EComercio\EComercio\bin\Debug\net6.0\EComercio.dll
+C:\temp\projetos\EComercio\EComercio\bin\Debug\net6.0\EComercio.pdb
+C:\temp\projetos\EComercio\EComercio\obj\Debug\net6.0\EComercio.csproj.AssemblyReference.cache
+C:\temp\projetos\EComercio\EComercio\obj\Debug\net6.0\EComercio.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\EComercio\EComercio\obj\Debug\net6.0\EComercio.AssemblyInfoInputs.cache
+C:\temp\projetos\EComercio\EComercio\obj\Debug\net6.0\EComercio.AssemblyInfo.cs
+C:\temp\projetos\EComercio\EComercio\obj\Debug\net6.0\EComercio.csproj.CoreCompileInputs.cache
+C:\temp\projetos\EComercio\EComercio\obj\Debug\net6.0\EComercio.dll
+C:\temp\projetos\EComercio\EComercio\obj\Debug\net6.0\refint\EComercio.dll
+C:\temp\projetos\EComercio\EComercio\obj\Debug\net6.0\EComercio.pdb
+C:\temp\projetos\EComercio\EComercio\obj\Debug\net6.0\EComercio.genruntimeconfig.cache
+C:\temp\projetos\EComercio\EComercio\obj\Debug\net6.0\ref\EComercio.dll
